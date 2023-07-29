@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/npm/v/sql.svg?logo=sql" />
 </div>
 ---
+
+
 ### 👨‍💼 Developing
 
 - 🪪 Inventory system
@@ -19,7 +21,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <h3> 🚀🚀🛸 Languages and TOOLS: 🛸🛸</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40">
