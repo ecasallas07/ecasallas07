@@ -5,10 +5,7 @@
 </div>
 
 <div>
-    <img src="https://img.shields.io/php/v/php.svg?logo=php" />
-    <img src="https://img.shields.io/laravel/v/laravel.svg?logo=laravel" />
-    <img src="https://img.shields.io/javascript/v/javascript.svg?logo=javascript" />
-    <img src="https://img.shields.io/sql/v/sql.svg?logo=sql" />
+ 
 </div>
 ---
 
@@ -23,7 +20,6 @@
 
 <div align="left">
   <h3> 🚀Languages and TOOLS:</h3>
-    
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
