@@ -5,10 +5,10 @@
 </div>
 
 <div>
-    <img src="https://img.shields.io/npm/v/php.svg?logo=php" />
-    <img src="https://img.shields.io/npm/v/laravel.svg?logo=laravel" />
-    <img src="https://img.shields.io/npm/v/javascript.svg?logo=javascript" />
-    <img src="https://img.shields.io/npm/v/sql.svg?logo=sql" />
+    <img src="https://img.shields.io/php/v/php.svg?logo=php" />
+    <img src="https://img.shields.io/laravel/v/laravel.svg?logo=laravel" />
+    <img src="https://img.shields.io/javascript/v/javascript.svg?logo=javascript" />
+    <img src="https://img.shields.io/sql/v/sql.svg?logo=sql" />
 </div>
 ---
 
