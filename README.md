@@ -23,7 +23,7 @@
 
 <div align="left">
   <h3> 🚀Languages and TOOLS:</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40">
+    
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
