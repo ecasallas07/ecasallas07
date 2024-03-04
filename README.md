@@ -1,7 +1,6 @@
 
  # 👨‍💼 Developing
  ---
-*LA PERFECCION EN PROGRAMACIÓN ES UN PROCESO ITERATIVO*
 ---
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width=480 height=342.720 frameBorder="0"  />
 
@@ -24,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ecasallas07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!--[![](https://visitcount.itsvg.in/api?id=ecasallas07&icon=0&color=0)](https://visitcount.itsvg.in)-->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ecasallas07&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
